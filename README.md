@@ -1,6 +1,6 @@
 # Portfolio Website
 ## Introduction
-This is a portfolio website built using HTML, CSS, JavaScript, Bootstrap, Node.js, EJS, and Express.js. The purpose of the website is to showcase your skills, projects, and experience as a web developer.
+This is a portfolio website built using HTML, CSS, JavaScript, Bootstrap, Node.js, EJS, Express.js and deployed using Railway. The purpose of the website is to showcase your skills, projects, and experience as a web developer.
 
 ## Features
 - A modern and attractive design
@@ -17,6 +17,7 @@ This is a portfolio website built using HTML, CSS, JavaScript, Bootstrap, Node.j
 - Node.js
 - EJS
 - Express.js
+- Railway (for deployment)
 ## Getting Started
 To run this website on your local machine, you will need to have Node.js and npm installed. Once you have those, follow these steps:
 
@@ -31,6 +32,13 @@ To customize the website to your liking, you can modify the following files:
 - `views/home.ejs`: This is the main template file that defines the structure of the website. You can change the content and layout of the website by editing this file.
 - `public/css/styles.css`: This is the main CSS file that defines the styles for the website. You can change the colors, fonts, and other styles by editing this file.
 - `index.js`: This is the main JavaScript file that defines the interactivity for the website. You can add or modify the behavior of the website by editing this file.
+## Deployment
+To deploy the website using Railway, you can follow these steps:
+
+ -Create a new project on Railway
+- Connect your GitHub repository to your Railway project
+- Configure the build settings to match your project's requirements
+Deploy your code to Railway
 ## Conclusion
 This portfolio website is a great starting point for anyone looking to create a personal website to showcase their skills and projects. With its clean code, attractive design, and responsive layout, you'll be able to present yourself in the best possible light. So go ahead, customize it to your liking, and start building your online presence today!
 
