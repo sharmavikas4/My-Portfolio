@@ -7,8 +7,7 @@ This is a portfolio website built using HTML, CSS, JavaScript, Bootstrap, Node.j
 - A responsive layout that works on all screen sizes
 - A clean and organized codebase
 - The ability to display your personal information, such as your name, profession, and a short bio
-- A portfolio section to showcase your projects, with a description and a preview image for each project
-- A contact form that allows visitors to send you messages
+- A section to showcase your projects
 - The ability to display your social media links, such as Twitter, LinkedIn, and GitHub
 ## Technologies Used
 - HTML
