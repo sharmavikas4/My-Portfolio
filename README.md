@@ -35,7 +35,7 @@ To customize the website to your liking, you can modify the following files:
 ## Deployment
 To deploy the website using Railway, you can follow these steps:
 
- -Create a new project on Railway
+- Create a new project on Railway
 - Connect your GitHub repository to your Railway project
 - Configure the build settings to match your project's requirements
 Deploy your code to Railway
