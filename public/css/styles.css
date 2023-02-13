@@ -270,8 +270,8 @@ body {
     left: 2%;
   }
   .profile{
-    width: 88.5vh;
-    height: 122vh;
+    width: 63vw;
+    height: 170vh;
   }
   .done{
     display: block;
@@ -295,9 +295,9 @@ body {
     font-weight: 900;
   }
   .year{
-    top: 107%;
+    top: 149vh;
     width: 29.7%;
-    left: 3.5%;
+    left: 3.2%;
     text-align: center;
     padding: 3.25%;
   }
