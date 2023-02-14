@@ -194,7 +194,7 @@ body {
   font-size: 18px;
 }
 
-@media only screen and (max-width: 949px) {
+@media only screen and (max-width: 1200px) {
   .h {
     width: 100%;
     bottom: 0;
@@ -214,8 +214,8 @@ body {
   .photo{
     position: relative;
     display: block;
-    width: 100%;
-    left: -10.5%;
+    width: 97.15%;
+    left: -8.8%;
   }
   .profile{
     width:121%;
@@ -249,7 +249,7 @@ body {
     padding-left: 1%;
   }
 }
-@media only screen and (min-width:950px) and (max-width: 1200px) {
+@media only screen and (min-width:1201px) and (max-width: 1400px) {
   .body{
     padding-left: 4%;
     padding-right: 4%;
